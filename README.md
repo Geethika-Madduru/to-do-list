@@ -1,2 +1,24 @@
 # to-do-list
-Simple Java console-based To-Do List app made while learning Java basics. It lets users add, view, and remove tasks using a menu system. The project helped me practice ArrayList, loops, and user input handling. Runs in terminal and is a beginner-friendly practice project.
+
+---
+
+## What I learned
+
+- How to use loops in Java
+- How to take input from users
+- How ArrayList works
+- Basic problem solving in Java
+
+---
+
+## Future improvements
+
+- Save tasks in a file so they don’t disappear after closing
+- Add edit task option
+- Make a GUI version using Java Swing
+
+---
+
+## Author
+
+Made by me while learning Java 😊
